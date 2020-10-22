@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Health IT Updates
+* Programming
+  * Github
+  * Python
+  * Swift (iOS)
+  * Java (Android)
+  * VBA
